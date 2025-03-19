@@ -20,5 +20,6 @@ public class stack {
     stack.pop();
     stack.pop();
     System.out.println(stack.isEmpty());
+    System.out.println("This was the basics about stack!");
   }
 }
